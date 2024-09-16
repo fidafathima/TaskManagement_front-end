@@ -1,5 +1,6 @@
 # Full-Stack Project: Django API + React Frontend
-This repository contains React frontend. The following instructions will guide you through setting up and running
+## This repository contains  frontend developed using React. 
+The following instructions will guide you through setting up and running
 
 # Basic features
 - Custom User model and authentication using email and password.
