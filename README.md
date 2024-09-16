@@ -6,15 +6,16 @@ This repository contains a full-stack application with a Django backend API and 
 - JWT authentication.
 - Redux,Redux-persist
 - Search functionality for tasks
+- Back-end is developed using Django:https://github.com/fidafathima/TaskManagement_Back-end/tree/master
 
 # Prerequisites
 - Node.js (v14 or later)
 - npm (Node package manager)
 
-Clone this repository to your local machine  
-npm install
-npm start
-Install dependencies via NPM or yarn
+- Clone this repository to your local machine  
+        npm install
+        npm start
+- Install dependencies via NPM or yarn
 
 -The frontend will be accessible at http://localhost:5173/
         
