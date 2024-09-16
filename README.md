@@ -13,11 +13,11 @@ This repository contains a full-stack application with a Django backend API and 
 - npm (Node package manager)
 
 - Clone this repository to your local machine  
-        npm install
-        npm start
+        - npm install
+        - npm start
 - Install dependencies via NPM or yarn
 
--The frontend will be accessible at http://localhost:5173/
+- The frontend will be accessible at http://localhost:5173/
         
  
 
