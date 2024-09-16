@@ -2,10 +2,10 @@ Full-Stack Project: Django API + React Frontend
 This repository contains a full-stack application with a Django backend API and a React frontend. The following instructions will guide you through setting up and running
 
 # Basic features
--Custom User model and authentication using email and password.
--JWT authentication.
--Redux,Redux-persist
--Search functionality for tasks
+- Custom User model and authentication using email and password.
+- JWT authentication.
+- Redux,Redux-persist
+- Search functionality for tasks
 
 # Prerequisites
 - Node.js (v14 or later)
