@@ -13,8 +13,8 @@ This repository contains React frontend. The following instructions will guide y
 - npm (Node package manager)
 
 - Clone this repository to your local machine  
-        - npm install
-        - npm start
+  - npm install
+  - npm start
 - Install dependencies via NPM or yarn
 
 - The frontend will be accessible at http://localhost:5173/
